@@ -1,0 +1,67 @@
+<mxfile modified="2024-03-06T09:14:23.135Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="K5pHaAdSy5HCVts4BKq-" version="24.0.1" type="github">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+    <mxGraphModel dx="1290" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xndBVeus4cfjBrG1IiMf-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="880" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2491FF;" vertex="1" parent="1">
+          <mxGeometry x="655" y="210" width="270" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#14FF2C;" vertex="1" parent="1">
+          <mxGeometry x="155" y="220" width="310" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.vbr_server;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xndBVeus4cfjBrG1IiMf-3" target="xndBVeus4cfjBrG1IiMf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="464" as="sourcePoint" />
+            <mxPoint x="470" y="414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-5" value="&lt;div&gt;Serveur Veeam&lt;/div&gt;&lt;div&gt;172.17.95.250/24&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-6" value="&lt;div&gt;NAS Openmediavault local&lt;/div&gt;&lt;div&gt;172.17.40.100/24&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xndBVeus4cfjBrG1IiMf-2" target="xndBVeus4cfjBrG1IiMf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+            <mxPoint x="610" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-8" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
+          <mxGeometry x="740" y="254" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xndBVeus4cfjBrG1IiMf-1" target="xndBVeus4cfjBrG1IiMf-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="350" as="sourcePoint" />
+            <mxPoint x="610" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-11" value="&lt;div&gt;NAS Openmediavault Distant&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.80.254/24&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-15" value="Site de Lille" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="224" width="135" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-16" value="Site de Dunkerque" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xndBVeus4cfjBrG1IiMf-17" value="Cloud Microsoft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="140" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
