@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T11:30:15.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="qE6e3AwO_pCteIalZket" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T11:38:32.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="BI2Cf5_90U3adwFXtWt8" version="24.6.2" type="github">
   <diagram name="Page-1" id="GtsLPtA9pzs3TXY-mFwF">
     <mxGraphModel dx="1434" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,10 +29,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jhGJpKCPHTS7L4XFEk-i-19" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.server;" vertex="1" parent="1">
-          <mxGeometry x="528.4" y="520" width="71.6" height="18.8" as="geometry" />
+          <mxGeometry x="440" y="420" width="71.6" height="18.8" as="geometry" />
         </mxCell>
         <mxCell id="jhGJpKCPHTS7L4XFEk-i-20" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.server;" vertex="1" parent="1">
-          <mxGeometry x="700" y="520" width="71.6" height="18.8" as="geometry" />
+          <mxGeometry x="797.2" y="420" width="71.6" height="18.8" as="geometry" />
         </mxCell>
         <mxCell id="jhGJpKCPHTS7L4XFEk-i-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="jhGJpKCPHTS7L4XFEk-i-13" target="jhGJpKCPHTS7L4XFEk-i-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -57,6 +57,21 @@
             <mxPoint x="800" y="690" as="sourcePoint" />
             <mxPoint x="850" y="640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jhGJpKCPHTS7L4XFEk-i-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SAN HPE&lt;/h1&gt;&lt;div&gt;ip = 172.16.14.1&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="830" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jhGJpKCPHTS7L4XFEk-i-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SW_SAN_1&lt;br&gt;&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="720" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jhGJpKCPHTS7L4XFEk-i-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SW_SAN_2&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="720" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhGJpKCPHTS7L4XFEk-i-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Londres&lt;br&gt;&lt;/h1&gt;&lt;div&gt;ip = 172.16.14.201&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jhGJpKCPHTS7L4XFEk-i-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Berlin&lt;br&gt;&lt;/h1&gt;&lt;div&gt;ip = 172.16.14.202&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="460" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
