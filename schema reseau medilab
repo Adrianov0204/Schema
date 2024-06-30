@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T13:02:52.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="gjVUtBi9qR8Hp4z0lasD" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T13:07:45.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="i9BrgiKHd3rK_iKHztgV" version="24.6.3" type="github">
   <diagram name="Page-1" id="j6dIcNqPdafH2qp_DXLL">
-    <mxGraphModel dx="1595" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,41 +16,41 @@
         <mxCell id="9ys6zWV_qcrMTEJGzgrG-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" parent="1" vertex="1">
           <mxGeometry x="230" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ys6zWV_qcrMTEJGzgrG-6" value="SW Madrid&lt;br&gt;&lt;div&gt;172.17.3.252&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="627.5" y="240" width="90" height="40" as="geometry" />
+        <mxCell id="9ys6zWV_qcrMTEJGzgrG-6" value="Switch Cisco&lt;br&gt;&lt;div&gt;172.17.3.252&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="622.5" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ys6zWV_qcrMTEJGzgrG-8" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" parent="1" vertex="1">
           <mxGeometry x="610" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ys6zWV_qcrMTEJGzgrG-9" value="SW Paris&lt;br&gt;&lt;div&gt;172.17.3.253&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="215" y="240" width="90" height="40" as="geometry" />
+        <mxCell id="9ys6zWV_qcrMTEJGzgrG-9" value="Switch Cisco&lt;br&gt;&lt;div&gt;172.17.3.253&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ys6zWV_qcrMTEJGzgrG-19" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.ups_enterprise;" parent="1" vertex="1">
           <mxGeometry x="60" y="240" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9ys6zWV_qcrMTEJGzgrG-20" value="NAS Rome&lt;br&gt;&lt;div&gt;172.17.40.100&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="45" y="320" width="100" height="40" as="geometry" />
+        <mxCell id="9ys6zWV_qcrMTEJGzgrG-20" value="NAS&lt;br&gt;&lt;div&gt;172.17.40.100&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9ys6zWV_qcrMTEJGzgrG-22" value="Vmware Esxi Berlin&lt;br&gt;&lt;div&gt;172.17.99.250&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="316.25" y="430" width="130" height="40" as="geometry" />
+        <mxCell id="9ys6zWV_qcrMTEJGzgrG-22" value="Vmware Esxi&lt;br&gt;&lt;div&gt;172.17.99.250&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="326.25" y="430" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ys6zWV_qcrMTEJGzgrG-23" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="1" vertex="1">
           <mxGeometry x="505" y="360" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9ys6zWV_qcrMTEJGzgrG-26" value="Vmware Esxi Londres&lt;br&gt;&lt;div&gt;172.17.99.251&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="430" width="140" height="40" as="geometry" />
+        <mxCell id="9ys6zWV_qcrMTEJGzgrG-26" value="Vmware Esxi&lt;br&gt;&lt;div&gt;172.17.99.251&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="475" y="430" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIDwcK-zmaJ6kJ3FVS2t-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.ups_enterprise;" parent="1" vertex="1">
           <mxGeometry x="430" y="220" width="55" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IIDwcK-zmaJ6kJ3FVS2t-4" value="SAN Dunkerque&lt;br&gt;&lt;div&gt;172.17.99.248&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="IIDwcK-zmaJ6kJ3FVS2t-4" value="SAN&lt;br&gt;&lt;div&gt;172.17.99.248&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="402.5" y="280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIDwcK-zmaJ6kJ3FVS2t-8" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="1" vertex="1">
           <mxGeometry x="662.5" y="330" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IIDwcK-zmaJ6kJ3FVS2t-9" value="Vcenter Amsterdam&lt;br&gt;&lt;div&gt;172.17.99.247&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="620" y="430" width="130" height="40" as="geometry" />
+        <mxCell id="IIDwcK-zmaJ6kJ3FVS2t-9" value="Vcenter&lt;br&gt;&lt;div&gt;172.17.99.247&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="630" y="430" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIDwcK-zmaJ6kJ3FVS2t-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
